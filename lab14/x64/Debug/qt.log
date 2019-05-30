@@ -1,0 +1,3 @@
+lab14.qrc|"C:\Users\Diana\Desktop\OOP\Laboratories\lab14\lab14\lab14.qrc" -o ".\GeneratedFiles\qrc_lab14.cpp" --name lab14
+lab14.ui|"C:\Users\Diana\Desktop\OOP\Laboratories\lab14\lab14\lab14.ui" -o ".\GeneratedFiles\ui_lab14.h"
+lab14.h|"C:\Users\Diana\Desktop\OOP\Laboratories\lab14\lab14\lab14.h" -o ".\GeneratedFiles\Debug\moc_lab14.cpp" "-I.\GeneratedFiles" "-I." "-IF:\Qt\5.11.0\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IF:\Qt\5.11.0\msvc2017_64\include\QtCore" "-IF:\Qt\5.11.0\msvc2017_64\include\QtGui" "-IF:\Qt\5.11.0\msvc2017_64\include\QtANGLE" "-IF:\Qt\5.11.0\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB

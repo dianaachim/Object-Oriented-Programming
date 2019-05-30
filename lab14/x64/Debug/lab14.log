@@ -1,0 +1,8 @@
+﻿  Basket.cpp
+  CSVBasket.cpp
+  Controller.cpp
+  HTMLBasket.cpp
+  MyGUI.cpp
+  Tests.cpp
+qtmaind.lib(qtmain_win.obj) : error LNK2019: unresolved external symbol main referenced in function WinMain
+C:\Users\Diana\Desktop\OOP\Laboratories\lab14\x64\Debug\\lab14.exe : fatal error LNK1120: 1 unresolved externals
